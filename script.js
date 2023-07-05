@@ -29,7 +29,9 @@ function initMaesperience() {
     styleSheet.innerText = style1;
     document.head.appendChild(styleSheet);
     var button = document.getElementById("sexy");
+    var text = document.getElementById("mainShit");
     button.style.display = "none";
+    text.style.display = "block";
 }
 
 /**
