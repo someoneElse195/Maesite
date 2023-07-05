@@ -1,0 +1,30 @@
+body {
+    background-image: url("images/tunnel_intro.gif");
+    background-size: cover;
+
+    margin: 50px;
+    padding: 0;
+}
+html {
+    margin: 0;
+    padding: 0;
+}
+#sexy {
+    color: #F931FF;
+    background-color: black;
+    font-size: 15px;
+}
+.butt {
+    text-align: center;
+    width: 250px;
+    height: 75px;
+    display: flex;
+    align-content: center;
+}
+
+.mainShit {
+    text-align: left;
+    color: white;
+    padding-top: 50px;
+}
+
